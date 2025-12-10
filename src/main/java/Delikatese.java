@@ -28,6 +28,6 @@ public class Delikatese {
         System.out.println("Rekins:");
         System.out.println(product + ": " + price);
         System.out.println("piegade: " + delivery);
-        System.out.println("kopa: " + total);
+        System.out.println("kopa : " + total);
     }
 }
